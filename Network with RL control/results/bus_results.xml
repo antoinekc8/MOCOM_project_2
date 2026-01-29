@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-01-29T21:58:18.138767+01:00 by Eclipse SUMO sumo 1.25.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="c:\Users\alera\Desktop\ENTPE\MoCoM\MOCOM_project_2\Network with RL control\ff.net.xml"/>
+        <route-files value="c:\Users\alera\Desktop\ENTPE\MoCoM\MOCOM_project_2\Network with RL control\ff_heterogeneous.rou.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="c:\Users\alera\Desktop\ENTPE\MoCoM\MOCOM_project_2\Network with RL control\tripinfo.xml"/>
+        <edgedata-output value="c:\Users\alera\Desktop\ENTPE\MoCoM\MOCOM_project_2\Network with RL control\bus_results.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+    </time>
+
+    <report>
+        <no-step-log value="true"/>
+    </report>
+
+    <traci_server>
+        <remote-port value="52212"/>
+    </traci_server>
+
+    <gui_only>
+        <quit-on-end value="true"/>
+    </gui_only>
+
+</sumoConfiguration>
