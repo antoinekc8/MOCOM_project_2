@@ -15,4 +15,12 @@
         <end value="3600"/>
     </time>
 
+    <output>
+        <tripinfo-output value="tripinfo.xml"/>
+
+        <emission-output value="emissions.xml"/>
+
+        <edgedata-output value="bus_results.xml"/>
+    </output>
+
 </sumoConfiguration>
