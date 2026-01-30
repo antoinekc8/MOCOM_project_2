@@ -6,7 +6,7 @@ A standalone, reproducible function for running RL-based traffic control simulat
 
 ## Files in This Folder
 
-### 1. `run_rl_simulation.py` (Main Module)
+### 1. `groupe2.py` (Main Module)
 **Purpose**: Core function for RL simulation evaluation
 
 **Main Function**: `Group2()`
@@ -30,7 +30,7 @@ A standalone, reproducible function for running RL-based traffic control simulat
 
 **Command-line Usage**:
 ```bash
-python run_rl_simulation.py \
+python groupe2.py \
     --config "path/to/config.sumocfg" \
     --model "path/to/final_model.pth" \
     --results "path/to/results" \

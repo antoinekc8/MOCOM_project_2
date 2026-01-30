@@ -6,8 +6,8 @@ This folder contains a standalone function `run_rl_traffic_control()` that runs 
 
 ## Files
 
-- **`run_rl_simulation.py`**: Main module with the `run_rl_traffic_control()` function
-- **`examples_run_rl_simulation.py`**: Usage examples demonstrating different use cases
+- **`groupe2.py`**: Main module with the `run_rl_traffic_control()` function
+- **`examples_groupe2.py`**: Usage examples demonstrating different use cases
 - **`README.md`**: This file
 
 ## Function Signature
@@ -63,7 +63,7 @@ def Group2(
 ### 1. Basic Usage
 
 ```python
-from run_rl_simulation import Group2
+from groupe2 import Group2
 
 results = Group2(
     config_path="Network with RL control/ff_heterogeneous.sumocfg",
@@ -78,7 +78,7 @@ print(f"Total reward: {results['total_reward']:.2f}")
 ### 2. Command-Line Usage
 
 ```bash
-python run_rl_simulation.py \
+python groupe2.py \
     --config "Network with RL control/ff_heterogeneous.sumocfg" \
     --model "Network with RL control/models/final_model.pth" \
     --results "Network with RL control/results" \

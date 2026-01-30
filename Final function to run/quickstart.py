@@ -8,7 +8,7 @@ Copy this file and customize the paths to your scenario.
 
 import os
 import sys
-from run_rl_simulation import Group2
+from groupe2 import Group2
 
 
 def main():

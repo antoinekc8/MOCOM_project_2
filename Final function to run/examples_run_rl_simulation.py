@@ -6,7 +6,7 @@ with all file paths specified as arguments.
 """
 
 import os
-from run_rl_simulation import Group2
+from groupe2 import Group2
 
 
 def example_1_basic_usage():

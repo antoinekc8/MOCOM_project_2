@@ -8,7 +8,7 @@ LOCATION: Final function to run/
 FILES CREATED:
 ├── INDEX.md                          ← START HERE (navigation guide)
 ├── quickstart.py                     ← FASTEST WAY TO RUN
-├── run_rl_simulation.py              ← MAIN FUNCTION
+├── groupe2.py                        ← MAIN FUNCTION
 ├── examples_run_rl_simulation.py     ← USAGE EXAMPLES
 ├── README.md                         ← FULL DOCUMENTATION
 ├── SUMMARY.md                        ← FEATURE OVERVIEW
@@ -364,7 +364,7 @@ NEXT STEPS
    → python examples_run_rl_simulation.py 1-5
 
 3. Use in your code?
-   → from run_rl_simulation import run_rl_traffic_control
+   → from groupe2 import run_rl_traffic_control
 
 4. Need analysis?
    → Use original notebook's KPI section on output XML
