@@ -1,0 +1,20 @@
+# SUMO Simulation Results
+**/results/*.xml
+**/results/*.png
+**/results/*.txt
+*.xml
+!*.sumocfg
+!*.net.xml
+!*.rou.xml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Model files
+*.pth
+
+# VS Code
+.vscode/

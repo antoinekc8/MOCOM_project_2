@@ -1,0 +1,61 @@
+
+================================================================================
+SCENARIO RANKINGS - E0-E3 SECTION (DIRECTIONAL)
+================================================================================
+
+1. DIRECTION A (E0→E3) - AVERAGE SPEED (Higher is Better)
+--------------------------------------------------------------------------------
+   1. Baseline                49.25 km/h
+   2. RL                      49.13 km/h
+   3. Max Pressure            48.77 km/h
+   4. Actuated                48.77 km/h
+
+2. DIRECTION B (E3→E0) - AVERAGE SPEED (Higher is Better)
+--------------------------------------------------------------------------------
+   1. Baseline                49.20 km/h
+   2. Max Pressure            48.95 km/h
+   3. Actuated                48.90 km/h
+   4. RL                      48.88 km/h
+
+3. DIRECTION A (E0→E3) - ACCUMULATED WAITING TIME (Lower is Better)
+--------------------------------------------------------------------------------
+   1. RL                        133 seconds
+   2. Max Pressure              779 seconds
+   3. Baseline                 1660 seconds
+   4. Actuated                 2159 seconds
+
+4. DIRECTION B (E3→E0) - ACCUMULATED WAITING TIME (Lower is Better)
+--------------------------------------------------------------------------------
+   1. RL                        142 seconds
+   2. Baseline                  472 seconds
+   3. Max Pressure             1889 seconds
+   4. Actuated                 3587 seconds
+
+5. DIRECTION A (E0→E3) - BUS AVERAGE WAITING TIME (Lower is Better)
+--------------------------------------------------------------------------------
+   1. RL                       7.82 seconds
+   2. Max Pressure            64.92 seconds
+   3. Baseline               138.33 seconds
+   4. Actuated               308.43 seconds
+
+6. DIRECTION B (E3→E0) - BUS AVERAGE WAITING TIME (Lower is Better)
+--------------------------------------------------------------------------------
+   1. RL                       7.47 seconds
+   2. Baseline                42.91 seconds
+   3. Max Pressure           157.42 seconds
+   4. Actuated               358.70 seconds
+
+7. DIRECTION A (E0→E3) - AVERAGE TRIP DURATION (Lower is Better)
+--------------------------------------------------------------------------------
+   1. RL                     106.06 seconds
+   2. Max Pressure           174.08 seconds
+   3. Baseline               238.75 seconds
+   4. Actuated               434.86 seconds
+
+8. DIRECTION B (E3→E0) - AVERAGE TRIP DURATION (Lower is Better)
+--------------------------------------------------------------------------------
+   1. RL                     103.89 seconds
+   2. Baseline               138.18 seconds
+   3. Max Pressure           286.58 seconds
+   4. Actuated               480.30 seconds
+================================================================================
