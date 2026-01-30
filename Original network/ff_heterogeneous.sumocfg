@@ -18,9 +18,9 @@
     <output>
         <tripinfo-output value="tripinfo.xml"/>
 
-        <emission-output value="emissions.xml"/>
-
         <edgedata-output value="bus_results.xml"/>
+
+        <edgedata-output value="results/edge_data.xml"/>
     </output>
 
 </sumoConfiguration>
