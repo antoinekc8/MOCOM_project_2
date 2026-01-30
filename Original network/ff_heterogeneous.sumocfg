@@ -16,10 +16,7 @@
     </time>
 
     <output>
-        <tripinfo-output value="tripinfo.xml"/>
-
-        <edgedata-output value="bus_results.xml"/>
-
+        <tripinfo-output value="results/tripinfo.xml"/>
         <edgedata-output value="results/edge_data.xml"/>
     </output>
 
