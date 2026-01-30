@@ -1,0 +1,33 @@
+
+================================================================================
+SCENARIO RANKINGS
+================================================================================
+
+1. AVERAGE WAITING TIME (Lower is Better)
+--------------------------------------------------------------------------------
+   1. Max Pressure           186.37 seconds
+   2. Baseline               209.84 seconds
+   3. RL                     248.45 seconds
+   4. Actuated               253.30 seconds
+
+2. AVERAGE TIME LOSS (Lower is Better)
+--------------------------------------------------------------------------------
+   1. Max Pressure           250.65 seconds
+   2. Baseline               273.08 seconds
+   3. RL                     308.41 seconds
+   4. Actuated               315.74 seconds
+
+3. AVERAGE TRIP DURATION (Lower is Better)
+--------------------------------------------------------------------------------
+   1. Max Pressure           365.27 seconds
+   2. Baseline               387.10 seconds
+   3. RL                     425.02 seconds
+   4. Actuated               431.71 seconds
+
+4. AVERAGE ARRIVAL SPEED (Higher is Better)
+--------------------------------------------------------------------------------
+   1. Baseline                 9.14 m/s
+   2. Max Pressure             9.09 m/s
+   3. RL                       9.08 m/s
+   4. Actuated                 9.05 m/s
+================================================================================
